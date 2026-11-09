@@ -27,7 +27,7 @@ namespace ProjetoC_
             {
                 Console.WriteLine("Recuperação");
             }
-           
+
         }
     }
 }

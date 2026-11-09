@@ -12,10 +12,12 @@ namespace ProjetoC_
             Console.WriteLine("digite sua idade:");
             int idade = Convert.ToInt32(Console.ReadLine());
             Console.WriteLine("");
-            if (idade < 18) {
+            if (idade < 18)
+            {
                 Console.WriteLine("Você não pode dirigir");
             }
-            else {
+            else
+            {
                 Console.WriteLine("Você pode dirigir");
             }
         }
